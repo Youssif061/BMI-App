@@ -19,10 +19,8 @@
 
 ## 📱 Preview
 
-<p align="center">
-  <img src="assets/screenshots/home.png" width="250"/>
-  <img src="assets/screenshots/result.png" width="250"/>
-</p>
+<img width="1023" height="1537" alt="ChatGPT Image Sep 4, 2026, 05_29_30 PM" src="https://github.com/user-attachments/assets/7168b409-0618-484b-a839-4b7959dbdfdc" />
+
 
 ---
 
