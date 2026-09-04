@@ -1,3 +1,48 @@
-# bmiapp
+# 🧮 BMI Index
 
-A new Flutter project.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey" />
+</p>
+
+<p align="center">
+  <strong>A clean and modern BMI Calculator built with Flutter.</strong>
+</p>
+
+<p align="center">
+  Calculate your Body Mass Index and instantly understand your weight category
+  through a simple and intuitive interface.
+</p>
+
+---
+
+## 📱 Preview
+
+<p align="center">
+  <img src="assets/screenshots/home.png" width="250"/>
+  <img src="assets/screenshots/result.png" width="250"/>
+</p>
+
+---
+
+## ✨ Features
+
+- 👤 Male & Female selection
+- 📏 Adjustable height
+- ⚖️ Adjustable weight
+- 🎂 Adjustable age
+- 🧮 BMI calculation
+- 📊 BMI weight classification
+- 🔄 Recalculate BMI
+- 🎨 Modern dark UI
+- 📱 Clean and responsive interface
+
+---
+
+## 🧮 BMI Calculation
+
+The application calculates BMI using the standard formula:
+
+```text
+BMI = Weight (kg) / Height² (m)
